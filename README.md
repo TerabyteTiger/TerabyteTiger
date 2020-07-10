@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you're reading this, [submit an issue](https://github.com/TerabyteTiger/TerabyteTiger/issues) to "sign the guest book" 😎 
+If you're reading this, [submit an issue](https://github.com/TerabyteTiger/TerabyteTiger/issues/new?assignees=&labels=&template=guest-book-sign-in-.md&title=Hello+from+%5Byour+name+here%5D) to "sign the guest book" 😎 
 <!--
 **TerabyteTiger/TerabyteTiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
