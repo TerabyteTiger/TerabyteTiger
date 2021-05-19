@@ -1,8 +1,9 @@
 ## Hi Friends 👋
 
-If you're reading this, [submit an issue](https://github.com/TerabyteTiger/TerabyteTiger/issues/new?assignees=&labels=&template=guest-book-sign-in-.md&title=Hello+from+%5Byour+name+here%5D) to "sign the guest book" 😎 
+I'm working on something super cool - and if you love dogs, you'll love to see [this](https://terabytetiger.com/dogs)
 
-[Twitter](https://twitter.com/TerabyteTiger) | [DEV](dev.to/terabytetiger) | [Twitch](twitch.tv/terabytetiger)
+
+[Twitter](https://twitter.com/TerabyteTiger) | [DEV](dev.to/terabytetiger)
 
 <!--
 **TerabyteTiger/TerabyteTiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
