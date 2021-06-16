@@ -1,6 +1,6 @@
 ## Hi Friends 👋
 
-I'm working on something super cool - and if you love dogs, you'll love to see [this](https://terabytetiger.com/dogs)
+I'm working on something super cool - and if you love pictures of dogs, you'll want to see [what it is](https://terabytetiger.com/dogs)
 
 
 [Twitter](https://twitter.com/TerabyteTiger) | [DEV](dev.to/terabytetiger)
