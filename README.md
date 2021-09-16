@@ -1,5 +1,3 @@
-
-  <meta name="monetization" content="$ilp.uphold.com/FYGWHFNNRHg8">
 ## Hi Friends 👋
 
 I'm working on something super cool - and if you love pictures of dogs, you'll want to see [what it is](https://terabytetiger.com/dogs)
