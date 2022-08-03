@@ -1,9 +1,8 @@
 ## Hi Friends 👋
 
-I'm working on something super cool - and if you love pictures of dogs, you'll want to see [what it is](https://terabytetiger.com/dogs)
+I'm a Web Dev that works primarily with Vue! Find me around the web 👇🏻
 
-
-[Twitter](https://twitter.com/TerabyteTiger) | [DEV](dev.to/terabytetiger)
+[Twitter](https://twitter.com/TerabyteTiger) | [DEV](dev.to/terabytetiger) | [Blog](https://terabytetiger.com/)
 
 <!--
 **TerabyteTiger/TerabyteTiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
